@@ -1,0 +1,51 @@
+body{
+    background-color: #1F1F1F;
+    /*background-color: #1a1b26;  -->fondo de visual studio code*/
+    color:white;
+    text-align: center;
+    padding: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+nav li{
+    display: inline;
+}
+
+.navitem{
+    font-size: larger;
+    display:inline-block;
+    text-decoration: none;
+    color: white;
+}
+
+.navitem:hover{
+    background-color: rgb(88, 28, 144);
+    
+}
+
+#title{
+    font-size: 4em;
+}
+
+#photoP{
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
+
+#listSkill{
+    padding: 0;
+    list-style-type: none;
+}
+
+.row{
+
+}
+
+.col{
+    
+}
